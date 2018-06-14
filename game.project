@@ -1,0 +1,12 @@
+[bootstrap]
+main_collection = /main/main.collectionc
+
+[script]
+shared_state = 1
+
+[project]
+title = ctz
+
+[library]
+include_dirs = tz
+
