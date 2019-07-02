@@ -3,7 +3,7 @@
 This project contains pre-compiled zone info files from [IANA](https://www.iana.org/time-zones),
 it exists as a resource for the [luatz](https://github.com/daurnimator/luatz) version [for Defold](https://github.com/Jerakin/luatz).
 
-It is currently using version 2018e (Released 2018-05-01) of the database.
+It is currently using version 2019b (Released 2019-07-01) of the database.
 
 
 ## Installation
